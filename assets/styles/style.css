@@ -21,7 +21,7 @@ a {
 
 header {
   height: calc(100vh - 150px);
-  background: no-repeat center/cover url('/assets/images/Lençóis.jpg');
+  background: no-repeat center/cover url('./assets/images/Lençóis.jpg');
 }
 
 header nav {
